@@ -37,7 +37,7 @@ Me motiva la idea de que cada línea de código que escribo puede tener un impac
 ### 📫 ¿Quieres saber más?
 
 - 📧 Puedes contactarme en sergiomolinarodriguez99@hotmail.com.
-- 💼 Conéctate conmigo en [Linkedin](www.linkedin.com/in/sergio-molina-rodríguez-04b050314).
+- 💼 Conéctate conmigo en [Linkedin]([www.linkedin.com/in/sergio-molina-rodríguez-04b050314](https://www.linkedin.com/in/sergio-molina-rodr%C3%ADguez-04b050314/).
 
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades que nos esperan y estoy ansioso por colaborar en proyectos increíbles. ¡Vamos a construir algo grandioso juntos!
