@@ -1,6 +1,6 @@
 <div align ="center"><h1>
 ## 👋 ¡Hola, mundo! Soy Sergio Molina 🌟
-  <br><img src="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg">
+  <br><img src="https://t4.ftcdn.net/jpg/03/10/26/27/360_F_310262727_laUeq9XnEmT5W8EfFXVtDioU8wVPehGG.jpg" alt="Imagen de Bienvenida">
 </h1></div>  
 
 
